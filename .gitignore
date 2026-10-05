@@ -219,3 +219,14 @@ __marimo__/
 
 
 artifacts/*
+
+
+# Virtual environment
+textS/
+
+# Local trained model
+pegasus-samsum-model/
+
+# Local model artifacts
+artifacts/model_trainer/
+artifacts/model_evaluation/
